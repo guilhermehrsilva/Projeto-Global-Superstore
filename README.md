@@ -1,7 +1,7 @@
 # 📊 Global Superstore - Análise de Eficiência Comercial e Lucratividade
 
 [Dashboard Preview](dashboard/Dashboard.pdf)
-*(Nota: Visualize o PDF acima para ver o layout final em alta resolução)*
+*(Nota: Visualize o PDF para ver o layout final em alta resolução)*
 
 ## 🏢 Sobre o Projeto
 Este projeto simula um cenário real de Business Intelligence onde uma rede varejista global precisava identificar gargalos de lucratividade. Apesar do alto volume de vendas, a margem líquida da empresa não acompanhava o crescimento.
