@@ -1,6 +1,6 @@
 # 📊 Global Superstore - Análise de Eficiência Comercial e Lucratividade
 
-![Dashboard Preview](dashboard/Dashboard.pdf)
+[Dashboard Preview](dashboard/Dashboard.pdf)
 *(Nota: Visualize o PDF acima para ver o layout final em alta resolução)*
 
 ## 🏢 Sobre o Projeto
